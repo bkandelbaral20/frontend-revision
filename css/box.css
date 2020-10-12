@@ -1,13 +1,16 @@
-.box1,.box2 {
-height: 10%;
-    width: 50%;
-}
-.box1{
-    background-color: coral;
-    float: left;
+
+
+.box1 {
+    background-color: #77AF00; /* greenish */
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    /*float: right;*/
 }
 .box2 {
-   background-color: cornflowerblue;
-    float: right;
-
+    background-color: #1969B2; /* blueish */
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    float: left;
 }
