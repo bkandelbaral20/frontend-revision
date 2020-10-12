@@ -1,5 +1,6 @@
 
 "use strict";
+//-------user interation
 // console.log('Hello from JavaScript!');
 // alert("what is your name");
 //
@@ -9,6 +10,7 @@
 // var userInput = prompt("please type something");
 // console.log("you typed" + userInput);
 
+//--increment
 // function increment(x) {
 //     return x + 1;
 // }
@@ -18,6 +20,7 @@
 // var six = increment(increment(increment(3)));
 // alert(six);
 
+//increment
 // function increment(someNumber) {
 //     return someNumber + 1;
 //     console.log('you will never see this.');
@@ -25,6 +28,7 @@
 // }
 // alert(increment(3));
 
+//if statement
 var pizzaPreference = prompt("What kind of pizza do you like?");
 
 if (pizzaPreference === "pineapple and hot sauce") {
@@ -34,3 +38,5 @@ if (pizzaPreference === "pineapple and hot sauce") {
 } else {
     alert(pizzaPreference + " isn't my favorite, but let's order some!");
 }
+
+
