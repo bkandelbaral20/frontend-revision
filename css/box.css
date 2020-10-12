@@ -1,0 +1,13 @@
+.box1,.box2 {
+height: 10%;
+    width: 50%;
+}
+.box1{
+    background-color: coral;
+    float: left;
+}
+.box2 {
+   background-color: cornflowerblue;
+    float: right;
+
+}
